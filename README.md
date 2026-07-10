@@ -86,7 +86,7 @@ Python 3.7+
 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/ваш-username/synctask.git
+git clone https://github.com/Kozlenok333/SyncTask.git
 cd synctask
 ```
 2. Запуск сервера
